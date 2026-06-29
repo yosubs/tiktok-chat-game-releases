@@ -1,0 +1,26 @@
+{
+  "_comment": "등록된 BJ 화이트리스트. 앱은 releases 저장소(yosubs/tiktok-chat-game-releases)의 bjs.json을 런타임에 fetch한다. BJ 추가/삭제는 그 저장소의 bjs.json을 갱신하면 다음 부팅/재체크 때 반영되며 빌드는 불필요하다. 이 파일은 동일 스키마의 소스 사본으로 빌드에 주입되지 않는다.",
+  "_schema": {
+    "tiktok_user": "TikTok 아이디 (@ 없이) — 런타임 화이트리스트 대조 키"
+  },
+  "bjs": [
+    {
+      "tiktok_user": "sub.dev"
+    },
+    {
+      "tiktok_user": "8lue_king"
+    },
+    {
+      "tiktok_user": "litol456"
+    },
+    {
+      "tiktok_user": "chigwangil"
+    },
+    {
+      "tiktok_user": "djhyunni"
+    },
+    {
+      "tiktok_user": "furin013"
+    }
+  ]
+}
